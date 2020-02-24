@@ -8,8 +8,30 @@
 #SignIn {
     margin-left: auto;
     width: max-content;
+    margin-right: 20px;
+    margin-top: 10px;
 }
-
+#SignIn div{
+    flex-wrap: wrap;
+    float: left;
+}
 #SignIn p{
     width: max-content;
+    font-size: 14px;
+}
+#SignIn button{
+    margin-left: 10px;
+    border-radius: 10%;
+    background-color: #0077c5;
+    color: white;
+    padding: 8px 20px;
+}
+.grey{
+    color: grey;
+}
+.blue{
+    color:#0077c5;
+}
+#signInButtonText{
+    font-size: 15px;
 }
