@@ -48,8 +48,21 @@
     width: max-content;
     margin: 0px auto;
 }
-
+#productIcons{
+    vertical-align: middle;
+    font-size: 23px;
+}
+#productIcons  img{
+    height: 25px;
+    width: 25px;
+}
+#productIcons span{
+    vertical-align: middle;
+    display: inline-block;
+}
 #intuitLogo{
+    margin: 0px 70px;
     height: 35px;
     width: 115px;
+    padding-bottom: 10px;
 }
