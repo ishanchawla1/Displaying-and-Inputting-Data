@@ -1,6 +1,6 @@
 # Displaying and Inputting Data
 
-> We are trying to create a form to collect data
+> We are trying to clone signup page for Mint.com
 
 ![screenshot](./app_screenshot.png)
 
