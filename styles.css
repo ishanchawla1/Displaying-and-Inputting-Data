@@ -51,6 +51,8 @@
 #productIcons{
     vertical-align: middle;
     font-size: 23px;
+    width: max-content;
+    margin: 0px auto 15px auto;
 }
 #productIcons  img{
     height: 25px;
@@ -61,8 +63,21 @@
     display: inline-block;
 }
 #intuitLogo{
-    margin: 0px 70px;
+    margin: 0px 110px;
     height: 35px;
     width: 115px;
     padding-bottom: 10px;
+}
+#formContent{
+    height: 500px;
+    width: 380px;
+    border: 1px solid grey;
+    border-radius: 1%;
+    margin: 0px auto;
+}
+
+#formTittle{
+    font-size: 26px;
+    width: max-content;
+    margin: 24px auto 15px auto;
 }
