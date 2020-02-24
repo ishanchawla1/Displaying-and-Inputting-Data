@@ -41,15 +41,15 @@ To get a local copy up and running follow these simple example steps.
 
 👤 Luis Octavio Ramirez Cruz
 
-Github: @LOctavio
-Twitter: @Octavio_ram431
-Linkedin: linkedin
+- Github: [@LOctavio](https://github.com/LOctavio)
+- Twitter: [@Octavio_ram431](https://twitter.com/Octavio_ram431)
+- Linkedin: [linkedin](https://www.linkedin.com/in/luis-octavio-ramirez-cruz-714521178/)
 
-👤 Ishan chawla
+👤 Ishan chawla 
 
-Github: @ishanchawla1
-Twitter: @Ishanchawla1884
-Linkedin: linkedin
+- Github: [@ishanchawla1](https://github.com/gishanchawla1)
+- Twitter: [@Ishanchawla1884](https://twitter.com/Ishanchawla1884)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ishan-chawla-232988b5/)
 
 ## 🤝 Contributing
 
