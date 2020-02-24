@@ -5,6 +5,7 @@
 
 
 /*Header*/
+
 #SignIn {
     margin-left: auto;
     width: max-content;
@@ -13,7 +14,7 @@
 }
 #SignIn div{
     flex-wrap: wrap;
-    float: left;
+    /*float: left;*/
 }
 #SignIn p{
     width: max-content;
@@ -34,4 +35,21 @@
 }
 #signInButtonText{
     font-size: 15px;
+}
+
+#signInButtonText img{
+    height: 20px;
+    width: 20px;
+}
+
+/*Main*/
+
+#form{
+    width: max-content;
+    margin: 0px auto;
+}
+
+#intuitLogo{
+    height: 35px;
+    width: 115px;
 }
