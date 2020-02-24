@@ -69,12 +69,12 @@
     padding-bottom: 10px;
 }
 #formContent{
-    height: 500px;
-    width: 380px;
+    height: 700px;
+    width: 320px;
     border: 1px solid grey;
     border-radius: 1%;
     margin: 0px auto;
-    padding: 0px 20px;
+    padding: 0px 50px;
 }
 #formTittle{
     font-size: 26px;
@@ -87,11 +87,30 @@
 }
 
 .input{
-    margin: 20px 20px;
+    margin: 20px 0px 0px 0px;
 }
 
 .inputText{
-    font-size: 30px;
+    font-size: 20px;
     margin : 10px 0px;
-    width: max-content;
+    width: 100%;
+}
+
+#advice{
+    font-size: 10px;
+}
+
+#createAcountButton{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 100%;
+    border-radius: 5%;
+    background-color: #0077c5;
+    color: white;
+    font-size: 18px;
+    height: 40px;
+}
+
+#termsAndConditions{
+    text-align: center;
 }
