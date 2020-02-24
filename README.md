@@ -1,6 +1,6 @@
-# Project Name
+# Displaying and Inputting Data
 
-> One paragraph statement about the project.
+> We are trying to create a form to collect data
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,9 +8,7 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML,CSS
 
 ## Live Demo
 
@@ -41,17 +39,17 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 Luis Octavio Ramirez Cruz
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+Github: @LOctavio
+Twitter: @Octavio_ram431
+Linkedin: linkedin
 
-👤 **Author2**
+👤 Ishan chawla
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+Github: @ishanchawla1
+Twitter: @Ishanchawla1884
+Linkedin: linkedin
 
 ## 🤝 Contributing
 
