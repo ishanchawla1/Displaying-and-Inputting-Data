@@ -74,10 +74,24 @@
     border: 1px solid grey;
     border-radius: 1%;
     margin: 0px auto;
+    padding: 0px 20px;
 }
-
 #formTittle{
     font-size: 26px;
     width: max-content;
-    margin: 24px auto 15px auto;
+    margin: 24px auto 20px auto;
+}
+.textForm{
+    margin: 0px auto;
+    width: max-content;
+}
+
+.input{
+    margin: 20px 20px;
+}
+
+.inputText{
+    font-size: 30px;
+    margin : 10px 0px;
+    width: max-content;
 }
