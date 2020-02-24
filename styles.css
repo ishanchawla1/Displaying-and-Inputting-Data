@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+/*Header*/
+#SignIn {
+    margin-left: auto;
+    width: max-content;
+}
+
+#SignIn p{
+    width: max-content;
+}
