@@ -1,24 +1,24 @@
 * {
-    padding: 0px;
-    margin: 0px;
+  padding: 0px;
+  margin: 0px;
 }
 
 
-/*Header*/
+/* Header */
 
 header {
-    height: 45px;
+  height: 45px;
 }
 
 #verticalAlign {
-    vertical-align: middle;
+  vertical-align: middle;
 }
 
 #SignIn {
-    margin-left: auto;
-    width: max-content;
-    margin-right: 20px;
-    margin-top: 10px;
+  margin-left: auto;
+  width: max-content;
+  margin-right: 20px;
+  margin-top: 10px;
 }
 
 #SignIn div {
@@ -57,7 +57,7 @@ header {
     vertical-align: middle;
 }
 
-/*Main*/
+/* Main */
 .backgroundPage {
     background-color: #eceef1;
 }
@@ -89,7 +89,6 @@ header {
 }
 
 #formContent {
-    
     border-radius: 1%;
     margin: 0px auto;
     padding: 0px 50px;
@@ -108,7 +107,7 @@ header {
     margin: 24px auto 20px auto;
 }
 
-.textForm { 
+.textForm {
     margin: 0px auto;
     width: max-content;
 }
@@ -152,7 +151,7 @@ header {
     font-size: 12px;
 }
 
-/*Footer*/
+/* Footer */
 
 footer {
     padding-top: 25px;
