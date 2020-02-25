@@ -98,6 +98,7 @@ header {
   border-radius: 1%;
   margin: 0 auto;
   padding: 0 50px;
+  height: 607px;
 }
 
 #box {
@@ -168,6 +169,7 @@ header {
 
 #inCenter {
   text-align: center;
+  color: gray;
 }
 
 /* Footer */
