@@ -1,17 +1,20 @@
-*{
+* {
     padding: 0px;
     margin: 0px;
+
 }
 
 
 /*Header*/
 
-header{
+header {
     height: 45px;
+
 }
 
-#verticalAlign{
+#verticalAlign {
     vertical-align: middle;
+
 }
 
 #SignIn {
@@ -19,102 +22,122 @@ header{
     width: max-content;
     margin-right: 20px;
     margin-top: 10px;
+
 }
-#SignIn div{
+#SignIn div {
     flex-wrap: wrap;
     float: left;
+
 }
-#SignIn p{
+#SignIn p {
     width: max-content;
     font-size: 14px;
+
 }
-#SignIn button{
+#SignIn button {
     margin-left: 10px;
     border-radius: 10%;
     background-color: #0077c5;
     color: white;
     padding: 8px 20px;
+
 }
 
-.grey{
+.grey {
     color: grey;
+
 }
-.blue{
+.blue {
     color:#0077c5;
+
 }
-#signInButtonText{
+#signInButtonText {
     font-size: 15px;
+
 }
 
-#signInButtonText img{
+#signInButtonText img {
     height: 15px;
     width: 15px;
     vertical-align: middle;
+
 }
 
 /*Main*/
-.backgroundPage{
+.backgroundPage {
     background-color: #eceef1;
+
 }
-#form{
+#form {
     width: max-content;
     margin: 0px auto;
     padding-top: 80px;
+
 }
-#productIcons{
+#productIcons {
     vertical-align: middle;
     font-size: 23px;
     width: max-content;
     margin: 0px auto 15px auto;
+
 }
-#productIcons  img{
+#productIcons  img {
     height: 25px;
     width: 25px;
+
 }
-#intuitLogo{
+#intuitLogo {
     margin: 0px 110px;
     height: 48px;
     width: 200px;
     vertical-align: middle;
     padding-bottom: 10px;
+
 }
-#formContent{
+#formContent {
     
     border-radius: 1%;
     margin: 0px auto;
     padding: 0px 50px;
+
 }
-#box{
+#box {
     background-color: white;
     height: 720px;
     width: 421px;
     border: 1px solid grey;
+
 }
-#formTittle{
+#formTittle {
     font-size: 26px;
     width: max-content;
     margin: 24px auto 20px auto;
+
 }
-.textForm{
+.textForm { 
     margin: 0px auto;
     width: max-content;
+
 }
 
-.input{
+.input {
     margin: 20px 0px 0px 0px;
+
 }
 
-.inputText{
+.inputText {
     font-size: 30px;
     margin : 10px 0px;
     width: 100%;
+
 }
 
-#advice{
+#advice {
     font-size: 10px;
+
 }
 
-#createAcountButton{
+#createAcountButton {
     margin-top: 22px;
     margin-bottom: 50px;
     width: 100%;
@@ -123,33 +146,37 @@ header{
     color: white;
     font-size: 20px;
     height: 40px;
+
 }
 
-#termsAndConditions{
+#termsAndConditions {
     text-align: center;
     padding-bottom: 40px;
+
 }
 
-#reCaptcha{
+#reCaptcha {
     margin: 0px auto;
     width: 320px;
     height: 60px;
     background-color: #eceef1;
     padding: 15px 50px;
     font-size: 12px;
+
 }
 
 /*Footer*/
 
-footer{
+footer {
     padding-top: 25px;
     text-align: center;
     padding-bottom: 15px;
     
 }
 
-#createAcountImage{
+#createAcountImage {
     width: 20px;
     height: 20px;
     vertical-align: middle;
+    
 }
