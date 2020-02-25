@@ -11,10 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/ishanchawla1/Displaying-and-Inputting-Data/8cf8da00786bf2e5172459e15df324b6afb78548/index.html)
-
-
-
+[Live Demo Link](https://rawcdn.githack.com/ishanchawla1/Displaying-and-Inputting-Data/68bf0695c61a0abed871c455116994c7d4f32702/index.html)
 
 
 ## Authors
